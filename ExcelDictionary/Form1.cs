@@ -228,7 +228,6 @@ namespace Excel_Reader
 
         private void SearchFor(string col, string searchingText, DataTable dataTable)
         {
-            Console.WriteLine(searchingText);
             try
             {
                 localData = dataTable.AsEnumerable()
