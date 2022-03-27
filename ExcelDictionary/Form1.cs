@@ -90,8 +90,6 @@ namespace Excel_Reader
 
         private void OnAlphabetButtonClick(object sender, EventArgs e)
         {
-            //TO DO: zrobić tak by nie nadpisywało tabeli po kliknięciu już przefiltowanej tabeli
-            //np klikasz b, potem 2 raz to samo i by nie nadpisało
             if (sender.Equals(buttonA))
             {
                 DisplayOnlyWithGivenFirstChar("Ang", 'a', dt);
