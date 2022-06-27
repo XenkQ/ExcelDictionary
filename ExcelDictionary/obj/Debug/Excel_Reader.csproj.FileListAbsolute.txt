@@ -1,0 +1,116 @@
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\Excel_Reader.exe.config
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\Excel_Reader.exe
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\Excel_Reader.pdb
+C:\Users\konrad\source\repos\Excel_Reader\obj\Debug\Excel_Reader.csproj.AssemblyReference.cache
+C:\Users\konrad\source\repos\Excel_Reader\obj\Debug\Excel_Reader.Form1.resources
+C:\Users\konrad\source\repos\Excel_Reader\obj\Debug\Excel_Reader.Properties.Resources.resources
+C:\Users\konrad\source\repos\Excel_Reader\obj\Debug\Excel_Reader.csproj.GenerateResource.cache
+C:\Users\konrad\source\repos\Excel_Reader\obj\Debug\Excel_Reader.csproj.CoreCompileInputs.cache
+C:\Users\konrad\source\repos\Excel_Reader\obj\Debug\Excel_Reader.exe
+C:\Users\konrad\source\repos\Excel_Reader\obj\Debug\Excel_Reader.pdb
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\ExcelDataReader.dll
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\ExcelDataReader.pdb
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\ExcelDataReader.xml
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\konrad\source\repos\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\Excel_Reader.exe.config
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\Excel_Reader.exe
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\Excel_Reader.pdb
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.dll
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.pdb
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.xml
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.csproj.AssemblyReference.cache
+D:\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.Form1.resources
+D:\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.Properties.Resources.resources
+D:\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.csproj.GenerateResource.cache
+D:\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.csproj.CoreCompileInputs.cache
+D:\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.exe
+D:\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.pdb
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\Excel_Reader.exe.config
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\Excel_Reader.exe
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\Excel_Reader.pdb
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.dll
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.pdb
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.xml
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.csproj.AssemblyReference.cache
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.Form1.resources
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.Properties.Resources.resources
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.csproj.GenerateResource.cache
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.csproj.CoreCompileInputs.cache
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.exe
+D:\Programing\C#\Programy C#\Programy Windows Forms\Excel_Reader\obj\Debug\Excel_Reader.pdb
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\Excel_Reader.exe.config
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\Excel_Reader.exe
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\Excel_Reader.pdb
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\ExcelDataReader.dll
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\ExcelDataReader.pdb
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\ExcelDataReader.xml
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\obj\Debug\Excel_Reader.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\obj\Debug\Excel_Reader.Form1.resources
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\obj\Debug\Excel_Reader.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\obj\Debug\Excel_Reader.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\obj\Debug\Excel_Reader.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\obj\Debug\Excel_Reader.csproj.CopyComplete
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\obj\Debug\Excel_Reader.exe
+C:\Users\Konrad\Desktop\Search_Engine_For_One_Excel_Data_File-main\Excel_Reader\obj\Debug\Excel_Reader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\Excel_Reader.exe.config
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\Excel_Reader.exe
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\Excel_Reader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\ExcelDataReader.dll
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\ExcelDataReader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\ExcelDataReader.xml
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\obj\Debug\Excel_Reader.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\obj\Debug\Excel_Reader.Form1.resources
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\obj\Debug\Excel_Reader.Properties.Resources.resources
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\obj\Debug\Excel_Reader.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\obj\Debug\Excel_Reader.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\obj\Debug\Excel_Reader.csproj.CopyComplete
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\obj\Debug\Excel_Reader.exe
+C:\Users\Konrad\Desktop\DictionaryVersion1\Excel_Reader\obj\Debug\Excel_Reader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\Excel_Reader.exe.config
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\Excel_Reader.exe
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\Excel_Reader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\ExcelDataReader.dll
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\ExcelDataReader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\ExcelDataReader.xml
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\obj\Debug\Excel_Reader.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\obj\Debug\Excel_Reader.Form1.resources
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\obj\Debug\Excel_Reader.Properties.Resources.resources
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\obj\Debug\Excel_Reader.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\obj\Debug\Excel_Reader.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\obj\Debug\Excel_Reader.csproj.CopyComplete
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\obj\Debug\Excel_Reader.exe
+C:\Users\Konrad\Desktop\DictionaryVersion2\Excel_Reader\obj\Debug\Excel_Reader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\Excel_Reader.exe.config
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\Excel_Reader.exe
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\Excel_Reader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.dll
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.xml
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.Form1.resources
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.Properties.Resources.resources
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.csproj.CopyComplete
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.exe
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.pdb

@@ -1,0 +1,34 @@
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.dll
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.xml
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\ExcelDictionary.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\Excel_Reader.Form1.resources
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\ExcelDictionary.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\ExcelDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\ExcelDictionary.csproj.CopyComplete
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDictionary.exe.config
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDictionary.exe
+C:\Users\Konrad\Desktop\DictionaryVersion2\bin\Debug\ExcelDictionary.pdb
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\ExcelDictionary.Properties.Resources.resources
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\ExcelDictionary.exe
+C:\Users\Konrad\Desktop\DictionaryVersion2\obj\Debug\ExcelDictionary.pdb
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDictionary.exe.config
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDictionary.exe
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDictionary.pdb
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDataReader.dll
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDataReader.pdb
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDataReader.xml
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\obj\Debug\ExcelDictionary.csproj.AssemblyReference.cache
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\obj\Debug\Excel_Reader.Form1.resources
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\obj\Debug\ExcelDictionary.Properties.Resources.resources
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\obj\Debug\ExcelDictionary.csproj.GenerateResource.cache
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\obj\Debug\ExcelDictionary.csproj.CoreCompileInputs.cache
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\obj\Debug\ExcelDictionary.csproj.CopyComplete
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\obj\Debug\ExcelDictionary.exe
+D:\Programing\C#\C# programs\Windows Forms apps\ExcelDictionary\ExcelDictionary\ExcelDictionary\obj\Debug\ExcelDictionary.pdb
