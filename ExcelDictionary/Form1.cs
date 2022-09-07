@@ -8,17 +8,38 @@ namespace Excel_Reader
     public partial class Form1 : Form
     {
         //TODO: ======================================================================================================
-                //Można zmienić by za każdym razem nie przeładowywało danych jak są dobre.
-                //Można jeszcze skrócić tą klasę (pomyśleć nad przeniesieniem Elementów).
                 //Można by było zrobić wybieraną lokalizację pliku.
                 //Na skończenie programu wymazać dane z dictionary.
         //TODO: ======================================================================================================
 
-        private readonly DictionaryDataManager dictionaryDataManager = new DictionaryDataManager(@"..\..\Files\dictionary.xlsx");
+        private DictionaryDataManager dictionaryDataManager;
 
         public Form1()
         {
             InitializeComponent();
+
+            OpenFileDialog choofdlog = new OpenFileDialog();
+            choofdlog.Filter = "All Files (*.*)|*.xlsx*";
+            choofdlog.FilterIndex = 1;
+            string sFileName = "";
+
+            while(true)
+            {
+                if (choofdlog.ShowDialog() == DialogResult.OK)
+                {
+                    sFileName = choofdlog.FileName;
+                    if (sFileName != "")
+                    {
+                        dictionaryDataManager = new DictionaryDataManager(sFileName);
+                        break;
+                    }
+                }
+
+                if(sFileName == "")
+                {
+                    MessageBoxManager.ShowErrorMessageBox("an exel file was not selected");
+                }
+            }
 
             ChangeDataGridViewApperanceOnStart();
 

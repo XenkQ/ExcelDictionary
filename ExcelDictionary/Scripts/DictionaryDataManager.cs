@@ -3,23 +3,19 @@ using System;
 using System.Data;
 using System.IO;
 using System.Linq;
-using System.Windows.Forms;
-using ExcelDictionary.Scripts;
-using Excel_Reader;
 
 namespace ExcelDictionary.Scripts
 {
     public class DictionaryDataManager
     {
         private DataTableCollection dataTableCollection;
-
         private DataTable dt;
         public DataTable DT { get { return dt; } }
-
         private DataTable localData = null;
         public DataTable LocalData { get { return localData; } }
-
         private string ExcelFilePath;
+        private string currentDataToSearch = "";
+        
 
         public DictionaryDataManager(string ExcelFilePath)
         {
@@ -80,6 +76,9 @@ namespace ExcelDictionary.Scripts
 
         public DataTable SearchFor(string col, char letter)
         {
+            if (currentDataToSearch == letter.ToString()) { return localData; }
+            currentDataToSearch = letter.ToString();
+
             Console.WriteLine(letter);
             letter = char.ToLower(letter);
 
@@ -104,6 +103,9 @@ namespace ExcelDictionary.Scripts
 
         public DataTable SearchFor(string col, string searchingText)
         {
+            if (currentDataToSearch == searchingText) { return localData; }
+            currentDataToSearch = searchingText;
+
             searchingText = searchingText.ToLower();
             Console.WriteLine(searchingText);
 
