@@ -7,23 +7,29 @@ namespace Excel_Reader
 {
     public partial class Form1 : Form
     {
-        //TODO: ======================================================================================================
-                //Można by było zrobić wybieraną lokalizację pliku.
-                //Na skończenie programu wymazać dane z dictionary.
-        //TODO: ======================================================================================================
-
         private DictionaryDataManager dictionaryDataManager;
 
         public Form1()
         {
             InitializeComponent();
 
+            SetPathToExelFileByUserChoice();
+
+            ChangeDataGridViewApperanceOnStart();
+
+            dictionaryDataManager.InitializeDictionaryFileData();
+
+            ChangeDataGridViewComponentDataSource(dataGridView1, dictionaryDataManager.DT);
+        }
+
+        private void SetPathToExelFileByUserChoice()
+        {
             OpenFileDialog choofdlog = new OpenFileDialog();
             choofdlog.Filter = "All Files (*.*)|*.xlsx*";
             choofdlog.FilterIndex = 1;
             string sFileName = "";
 
-            while(true)
+            while (true)
             {
                 if (choofdlog.ShowDialog() == DialogResult.OK)
                 {
@@ -35,17 +41,15 @@ namespace Excel_Reader
                     }
                 }
 
-                if(sFileName == "")
+                if (sFileName == "")
                 {
-                    MessageBoxManager.ShowErrorMessageBox("an exel file was not selected");
+                    DialogResult res = MessageBoxManager.ShowRestartErrorWithResult("An exel file was not selected!!!");
+                    if (res == DialogResult.Cancel)
+                    {
+                        ApplicationManager.CloseApplication();
+                    }
                 }
             }
-
-            ChangeDataGridViewApperanceOnStart();
-
-            dictionaryDataManager.InitializeDictionaryFileData();
-
-            ChangeDataGridViewComponentDataSource(dataGridView1, dictionaryDataManager.DT);
         }
 
         private void ChangeDataGridViewApperanceOnStart()
@@ -60,7 +64,6 @@ namespace Excel_Reader
             {
                 e.SuppressKeyPress = true;
 
-                //Change later
                 if (!PhraseFieldIsEmpty())
                     ChangeDataGridViewComponentDataSource(dataGridView1, dictionaryDataManager.SearchFor("Ang", KodTextBox.Text));
             }

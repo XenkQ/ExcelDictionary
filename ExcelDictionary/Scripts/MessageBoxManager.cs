@@ -9,9 +9,9 @@ namespace ExcelDictionary.Scripts
             MessageBox.Show(message, "", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
-        public static void ShowErrorMessageBoxWithChoice(string message, string choice1, string choice2)
+        public static DialogResult ShowRestartErrorWithResult(string message)
         {
-            MessageBox.Show(message, "", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            return MessageBox.Show(message, "", MessageBoxButtons.RetryCancel, MessageBoxIcon.Error);
         }
 
         public static void ShowExclamationMessageBox(string message)

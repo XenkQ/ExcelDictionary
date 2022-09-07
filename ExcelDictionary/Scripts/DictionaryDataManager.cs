@@ -79,9 +79,7 @@ namespace ExcelDictionary.Scripts
             if (currentDataToSearch == letter.ToString()) { return localData; }
             currentDataToSearch = letter.ToString();
 
-            Console.WriteLine(letter);
             letter = char.ToLower(letter);
-
             try
             {
                 localData = dt.AsEnumerable()
@@ -107,7 +105,7 @@ namespace ExcelDictionary.Scripts
             currentDataToSearch = searchingText;
 
             searchingText = searchingText.ToLower();
-            Console.WriteLine(searchingText);
+
 
             try
             {
