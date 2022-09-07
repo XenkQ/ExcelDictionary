@@ -1,4 +1,3 @@
 # Excel Dictionary
 This application was written by me for an English teacher to search vocabulary from our book.
-For the application to work you must create a file with the extension "xlsx" in the "file" directory, or overwrite it.
-The file must be created according to the pattern file!
+![image](https://user-images.githubusercontent.com/77151114/188966731-32daa839-afb6-4771-bf80-9c8bb36b5674.png)
