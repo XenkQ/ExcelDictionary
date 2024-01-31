@@ -8,7 +8,7 @@ This project started when mu teacher asked me for help in creating dictionary wi
 
 ## How to use this application
 1. Download zip version of project. (Click green "code button" and then click "Download Zip")
-2. Extract files to destined location. ([How to extract files](https://www.youtube.com/watch?v=HLBSS3JjAh0)
+2. Extract files to destined location. ([How to extract files](https://www.youtube.com/watch?v=HLBSS3JjAh0))
 3. After extraction go to directory YourFolder/ExcelDictionary/Files/ and write your words to excel file (Column names must be the same as in template) then overwrite file.
 4. Go to directory YourFolder/ExcelDictionary/obj/Debug/ and click ExcelDictionary.exe.
 5. In application you can write phase that you want to find (you don't need to write full phrase) and then click search or use filter options (alphabetical letters) to find world begining on that letter.
