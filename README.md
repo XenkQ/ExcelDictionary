@@ -1,7 +1,7 @@
 # Excel Dictionary
 
 ## This application was written by me for an English teacher to search vocabulary from our book.
-This project started when mu teacher asked me for help in creating vocabulary with technical phrases from her technical english book. I told her that she can use Excel, but she told me that she doesn't know how to use it and she want's simpler app for short vocabluary. So I got and idea that I can use Windows Forms and C# to create some kind of search application. Purpose of This application is to search words from excel file and displaying it in more friendly way for people who doesn't know how to use Excel.
+This project started when mu teacher asked me for help in creating dictionary with technical phrases from her technical english book. I told her that she can use Excel, but she told me that she doesn't know how to use it and she want's simpler app for short vocabluary. So I got and idea that I can use Windows Forms and C# to create some kind of search application. Purpose of This application is to search words from Excel file and displaying it in more friendly way for people who doesn't know how to use Excel.
 
 ## How it looks
 ![image](https://user-images.githubusercontent.com/77151114/188966731-32daa839-afb6-4771-bf80-9c8bb36b5674.png)
